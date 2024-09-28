@@ -40,11 +40,11 @@ public class Main {
         }
         else if(recebido > total){
             dif = recebido - total;
-            System.out.println("------------------------------------------");
+            System.out.println("-------------------------------------------");
             System.out.println("Valor da compra: R$"+total+".");
             System.out.println("Valor recebido: R$"+recebido+".");
             System.out.println("Troco a ser pago: R$"+dif+".");
-            System.out.println("------------------------------------------\n");
+            System.out.println("-------------------------------------------\n");
 
 
             //Fazendo a conta
